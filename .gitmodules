@@ -1,0 +1,15 @@
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json.git
+[submodule "lib/Simple-WebSocket-Server"]
+	path = lib/Simple-WebSocket-Server
+	url = https://gitlab.com/eidheim/Simple-WebSocket-Server.git
+[submodule "lib/xtime_cpp"]
+	path = lib/xtime_cpp
+	url = https://github.com/NewYaroslav/xtime_cpp.git
+[submodule "lib/asio"]
+	path = lib/asio
+	url = https://github.com/NewYaroslav/asio.git
+[submodule "lib/openssl_win64"]
+	path = lib/openssl_win64
+	url = https://github.com/NewYaroslav/openssl_win64.git
